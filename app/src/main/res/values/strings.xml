@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CodingPlatform</string>
+    <string name="app_title">In Main</string>
+    <string name="problem_number">1</string>
+    <string name="problem_name">Two Sum</string>
+    <string name="locked_or_not">locked or not</string>
+</resources>
